@@ -1,0 +1,12 @@
+.friend{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.friends-list{
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    padding: 10px;
+}
